@@ -1,0 +1,2 @@
+# Fundamentos_Ciencia_de_Datos
+Sesiones prácticas
